@@ -27,8 +27,8 @@ In addition to sharing papers, you can also share some useful knowledge or even 
 
 ## Agenda
 
-| Week |    Date    |  Speaker   | Paper or Materials | File Link | Recordings |
-| :--: | :--------: | :--------: | :----------------: | :-------: | ---------- |
-|  1   | 2020.10.17 | Haoran Gao |                    |           |            |
-|  2   |            |            |                    |           |            |
+| Week |    Date    |  Speaker   |                      Paper or Materials                      |                          File Link                           | Recordings |
+| :--: | :--------: | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ---------- |
+|  1   | 2020.10.17 | Haoran Gao | [KDD2019]E.T.-RNN: Applying Deep Learning to Credit Loan Applications; Discussion about RL | [paper_link](https://www.researchgate.net/publication/334714925_ET-RNN_Applying_Deep_Learning_to_Credit_Loan_Applications) |            |
+|  2   |            |            |                                                              |                                                              |            |
 
